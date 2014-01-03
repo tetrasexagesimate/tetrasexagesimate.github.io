@@ -1,10 +1,10 @@
-name: Simply Grey 
+name: Tetrasexagesimate 
 markdown: redcarpet
 pygments: true
-github: www.github.com/exaem
-about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+github: www.github.com/tetrasexagesimate
+about: Things and stuff and TACOS!!!
 urls:
     - text: github
-      url: https://github.com/exaem
+      url: https://github.com/tetrasexagesimate
     - text: email
-      url: mailto:exaem@exaem.co.uk
+      url: mailto:richardebaker+tetra@gmail.com
